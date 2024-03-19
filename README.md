@@ -30,3 +30,14 @@ This repository hosts a collection of C++ programs dedicated to the analysis of 
 15. Tower_hanoi.cpp: Tower_hanoi.cpp likely contains code for solving the Tower of Hanoi problem, a classic mathematical puzzle that involves moving a stack of disks from one peg to another, adhering to specific rules to ensure the stability of the stack.
 
 16. Truth_table.cpp: This file likely contains code for generating truth tables, which represent the outputs of logical expressions for all possible combinations of input values. Truth tables are essential in logic design, digital circuit analysis, and boolean algebra for evaluating and simplifying logical expressions.
+17. Binary_search_iterative.cpp: This file likely contains code for implementing the binary search algorithm in an iterative manner. Binary search is an efficient algorithm used to find a target value within a sorted array by repeatedly dividing the search interval in half. The iterative approach involves using loops to perform the search operation until the target value is found or the search interval is exhausted.
+
+18.Binary_search_recursive.cpp: This file probably contains code for implementing the binary search algorithm in a recursive manner. Similar to the iterative approach, binary search recursively divides the search interval in half until the target value is found or the search interval is exhausted. Recursive implementations often involve defining a function that calls itself with updated parameters until a base case is reached.
+Here's a brief description of each of the provided files:
+
+19. prims_algo.cpp: This file likely contains code for implementing Prim's algorithm, a greedy algorithm used to find the minimum spanning tree of a connected, undirected graph. Prim's algorithm starts with a single vertex and gradually expands the spanning tree by adding the shortest edge that connects a vertex in the tree to a vertex outside of it until all vertices are included.
+
+20. heapsort.cpp: This file contains code for implementing the heapsort algorithm, an efficient comparison-based sorting algorithm that builds a heap data structure from the input array and then repeatedly extracts the maximum element from the heap and rebuilds the heap until the array is sorted.
+
+21. knapsack.cpp: This file probably contains code for solving the knapsack problem, a classic optimization problem in combinatorial optimization and computer science. The knapsack problem involves selecting a subset of items from a set, each with a weight and a value, to maximize the total value while keeping the total weight within a given limit (the "knapsack capacity"). There are various versions of the knapsack problem, including the 0/1 knapsack problem and the fractional knapsack problem, each with different constraints and solution approaches.
+
