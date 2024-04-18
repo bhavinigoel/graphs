@@ -43,3 +43,11 @@ Here's a brief description of the two provided files:
 
 21. knapsack.cpp: This file probably contains code for solving the knapsack problem, a classic optimization problem in combinatorial optimization and computer science. The knapsack problem involves selecting a subset of items from a set, each with a weight and a value, to maximize the total value while keeping the total weight within a given limit (the "knapsack capacity"). There are various versions of the knapsack problem, including the 0/1 knapsack problem and the fractional knapsack problem, each with different constraints and solution approaches.
 
+22. shortest_source_distance.cpp: implements an algorithm to find the shortest distance from a source vertex to all other vertices in a given graph. It uses Dijkstra's algorithm, a popular method for finding the shortest paths in a weighted graph with non-negative edge weights. The program takes an adjacency matrix representation of the graph as input and computes the shortest distances from a specified source vertex to all other vertices.
+
+23. strassonsMatrix.cpp: This program implements Strassen's algorithm for matrix multiplication, an efficient divide-and-conquer method that reduces the number of arithmetic operations compared to the conventional matrix multiplication algorithm. This implementation recursively splits large matrices into smaller submatrices and combines the results using the Strassen's algorithm to perform matrix multiplication efficiently.
+
+24.find_all_sequences.cpp:This program is designed to generate all possible sequences of a given length using a specified set of characters. It employs backtracking to systematically explore all possible combinations of characters and outputs all valid sequences of the specified length
+
+    
+
