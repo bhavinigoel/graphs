@@ -47,7 +47,16 @@ Here's a brief description of the two provided files:
 
 23. strassonsMatrix.cpp: This program implements Strassen's algorithm for matrix multiplication, an efficient divide-and-conquer method that reduces the number of arithmetic operations compared to the conventional matrix multiplication algorithm. This implementation recursively splits large matrices into smaller submatrices and combines the results using the Strassen's algorithm to perform matrix multiplication efficiently.
 
-24.find_all_sequences.cpp:This program is designed to generate all possible sequences of a given length using a specified set of characters. It employs backtracking to systematically explore all possible combinations of characters and outputs all valid sequences of the specified length
+  24.find_all_sequences.cpp:This program is designed to generate all possible sequences of a given length using a specified set of characters. It employs backtracking to systematically explore all possible 
+     combinations of characters and outputs all valid sequences of the specified length
+
+  25.The nColoring.cpp: This program solves the n-coloring problem, which is a generalization of the graph coloring problem. Given an undirected graph and 'n' colors, the goal is to color the vertices of the graph in such a way that no 
+    two adjacent vertices have the same color, using at most 'n' colors. This implementation utilizes a backtracking algorithm to explore all possible colorings and finds a valid solution if one exists.
+
+ 26.  n_queens.cpp :This program solves the N-Queens problem, a classic combinatorial problem where the objective is to place N queens on an N×N chessboard in such a way that no two queens threaten each other. In other words, no two 
+ queens share the same row, column, or diagonal. This program utilizes a recursive backtracking algorithm to explore all possible configurations of queen placements and finds all solutions for a given board size.
+
+ 27. 
 
     
 
